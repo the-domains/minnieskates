@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MinnieSkates]]></title>
-        <description><![CDATA[MinnieSkates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Minnie the Skating Pup]]></title>
+        <description><![CDATA[Minnie the Skating Pup]]></description>
+        <link>https://thegrid.ai/minnieskates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:07:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 20:15:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/minnieskates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ada5bc7f-90e4-4c3f-a060-5c64ada9f418.jpg">]]></description>
+            <link>https://thegrid.ai/minnieskates/f119534c-9428-4eef-824b-a0970bb81ff8/index.html</link>
+            <guid isPermaLink="false">f119534c-9428-4eef-824b-a0970bb81ff8</guid>
+            <pubDate>Thu, 14 Apr 2016 20:14:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1336a-bfe6-47b6-a554-02d70c5887a8.jpg">]]></description>
-            <link>undefinedbe544729-c879-46b4-a749-c4011d64a155/index.html</link>
+            <link>https://thegrid.ai/minnieskates/be544729-c879-46b4-a749-c4011d64a155/index.html</link>
             <guid isPermaLink="false">be544729-c879-46b4-a749-c4011d64a155</guid>
             <pubDate>Thu, 14 Apr 2016 20:06:30 GMT</pubDate>
         </item>
